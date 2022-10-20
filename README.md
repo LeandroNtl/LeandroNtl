@@ -4,7 +4,7 @@
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/LeandroNtl">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=LeandroNtl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
