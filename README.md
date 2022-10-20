@@ -4,13 +4,14 @@
 
 ##
 
-<div>
-  <a href="https://github.com/LeandroNtl">
+<div align="center">
+  <a href="https://github.com/LeandroNtl"> 
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=LeandroNtl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/LeandroNtl">
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNtl&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+</div>
+<div style="display: inline_block"><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="40"/> 
 </div>
 
 ##
