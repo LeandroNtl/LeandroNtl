@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Sou Leandro Natálio</h1>
 
 - Atualmente aprendendo Python, HTML e CSS.
-- Cursando Análise e Desenvolvimento de Sistemas.
+- Foco em ser desenvolvedor Back-end
 
 ##
 
