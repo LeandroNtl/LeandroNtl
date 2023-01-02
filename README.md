@@ -4,7 +4,6 @@
 - Foco em ser desenvolvedor Back-end.
 
 ##
-
 <div align="center">
   <a href="https://github.com/LeandroNtl">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeandroNtl&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
